@@ -3,15 +3,15 @@ tags: toronto
 ---
 I will be running a game of Dungeon Crawl Classics (DCC) in downtown Toronto.
 
-All are welcome.*
+<a href="{{ side.baseurl }}/expectations.html">All are welcome.</a>
 
-<b>When:</b> Alternate Tuesdays from 7:00 - 10:00 PM, starting March 10, 2020. I am committing to 10 sessions initially and we can keep on trucking from there.
+<u>When:</u> Alternate Tuesdays from 7:00 - 10:00 PM, starting March 10, 2020. I am committing to 10 sessions initially and we can keep on trucking from there.
 
-Where: 401 Games in downtown Toronto at 750 Yonge St (they’ve moved). Just a 2 minute walk from Bloor-Yonge TTC station.
+<u>Where:</u> 401 Games in downtown Toronto at 750 Yonge St (they’ve moved). Just a 2 minute walk from Bloor-Yonge TTC station.
 
-What to bring: Dice if you want. A snack perhaps. The store has snacks and drinks for sale. I will provide character sheets, dice, pencils, the rule book, everything we need to play.
+<u/>What to bring:</u> Dice if you want. A snack perhaps. The store has snacks and drinks for sale. I will provide character sheets, dice, pencils, the rule book, everything we need to play.
 
-Details:
+<u>Details:</u>
 
 The #1 objective is to have fun!
 
@@ -40,6 +40,5 @@ It's common (but not required) to run several characters and/or hirelings at onc
 </li>
 <li>
 It can be faster paced. Things get weird quick, even for low-level characters.
+</li>
 </ul>
-
-* I take this very seriously and will do my utmost to make people from all walks of life feel welcome. 
