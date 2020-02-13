@@ -3,3 +3,5 @@ title: Insert Title Here
 description: Blah blah
 show_downloads: false
 markdown: kramdown
+include:
+ - _posts
