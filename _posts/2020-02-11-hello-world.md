@@ -1,5 +1,4 @@
 ---
-title: New Open Table in Toronto
 tags: toronto
 ---
 I will be running a game of Dungeon Crawl Classics (DCC) in downtown Toronto.
@@ -24,16 +23,22 @@ If you've never played a tabletop RPG like D&D, then DCC is a great place to sta
 
 If you have played D&D or its kin, then DCC is a bit different because:
 <ul>
+<li>
 Classes, skills, feats, and all that are simplified. You can still do all of these things, just in different ways.
-
+</li>
+<li>
 Magic is less predictable and can be more dangerous to the caster, innocent bystanders, and -- with luck -- the monsters.
-
+</li>
+<li>
 Combat is faster and more lethal. 
-
+</li>
+<li>
 Characters die more often! But don't worry, you'll probably go out in a heroic blaze of glory and have the bards sing your epic for ages to come. 
-
+</li>
+<li>
 It's common (but not required) to run several characters and/or hirelings at once. You might have a main and a protege and perhaps a hireling or two. Some might stay in town, ready to take the reins if the active party takes an unexpected trip to Valhalla.
-
+</li>
+<li>
 It can be faster paced. Things get weird quick, even for low-level characters.
 </ul>
 * I take this very seriously and will do my utmost to make people from all walks of life feel welcome. 
