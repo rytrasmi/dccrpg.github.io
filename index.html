@@ -1,7 +1,10 @@
 ---
 layout: default
 ---
-<body>
-<h1>test</h1>
-<p>hello again 2</p>
-</body>
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
