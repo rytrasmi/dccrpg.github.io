@@ -4,6 +4,7 @@ description: Blah blah
 show_downloads: false
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 include: ["_posts"]
+baseurl: /dccrpg.github.io
 
 # Conversion
 markdown: kramdown
