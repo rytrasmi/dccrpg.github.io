@@ -3,7 +3,7 @@ tags: toronto
 ---
 I will be running a game of Dungeon Crawl Classics (DCC) in downtown Toronto.
 
-<a href="{{ side.baseurl }}/expectations.html">All are welcome.</a>
+<a href="{{ site.baseurl }}/expectations.html">All are welcome.</a>
 
 <u>When:</u> Alternate Tuesdays from 7:00 - 10:00 PM, starting March 10, 2020. I am committing to 10 sessions initially and we can keep on trucking from there.
 
