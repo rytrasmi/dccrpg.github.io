@@ -45,6 +45,12 @@ torture
 cannibalism
 </li>
 <li>
+death
+</li>
+<li>
+disease
+</li>
+<li>
 religion
 </li>
 <li>
