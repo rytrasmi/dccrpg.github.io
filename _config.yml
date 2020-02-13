@@ -2,7 +2,5 @@ theme: jekyll-theme-hacker
 title: Insert Title Here
 description: Blah blah
 show_downloads: false
-include:
- - _posts
 baseurl: /dccrpg.github.io
 
