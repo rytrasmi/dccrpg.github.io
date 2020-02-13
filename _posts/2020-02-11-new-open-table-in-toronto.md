@@ -1,5 +1,4 @@
 ---
-author: ryan
 tags: toronto
 ---
 I will be running a game of Dungeon Crawl Classics (DCC) in downtown Toronto.
