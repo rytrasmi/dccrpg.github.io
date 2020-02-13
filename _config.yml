@@ -5,6 +5,7 @@ show_downloads: false
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 include:
   - _pages
+  - _posts
 
 # Conversion
 markdown: kramdown
