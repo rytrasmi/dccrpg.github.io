@@ -1,8 +1,8 @@
 ---
 ---
-Anyone from any walk of life is welcome to play. Anyone may leave the game at any time.
+Anyone from any walk of life is welcome to play. Anyone may leave the game at any time. Note that the venue has stairs.
 
-We abide by the Golden Rule and are 100% respectful of others.
+We abide by the Golden Rule and are 100% respectful of players (but not necessarily characters).
 
 And so we are on the same page about themes...
 
