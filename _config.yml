@@ -4,4 +4,4 @@ description: Blah blah
 show_downloads: false
 markdown: kramdown
 include:
- - _posts
+ - _posts/
