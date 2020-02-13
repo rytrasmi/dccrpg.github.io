@@ -2,7 +2,7 @@
 ---
 Anyone from any walk of life is welcome to play. Anyone may leave the game at any time.
 
-We abide by the Golden Rule and are 100% respectful of others. If not, you will be asked to leave.
+We abide by the Golden Rule and are 100% respectful of others.
 
 And so we are on the same page about themes...
 
@@ -46,6 +46,9 @@ cannibalism
 </li>
 <li>
 religion
+</li>
+<li>
+politics
 </li>
 </ul>
 
