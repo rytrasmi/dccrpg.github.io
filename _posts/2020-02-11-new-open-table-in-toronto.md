@@ -12,6 +12,10 @@ I will be running a game of Dungeon Crawl Classics (DCC) in downtown Toronto.
 
 <u>What to bring:</u> Dice if you want. A snack perhaps. The store has snacks and drinks for sale. I will provide character sheets, dice, pencils, the rule book, everything we need to play.
 
+More info below the flyer.
+
+<img src="{{ site.baseurl }}/assets/img/sanjulian.png">
+
 <u>Details:</u>
 
 The #1 objective is to have fun!
