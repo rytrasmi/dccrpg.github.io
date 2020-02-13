@@ -41,4 +41,5 @@ It's common (but not required) to run several characters and/or hirelings at onc
 <li>
 It can be faster paced. Things get weird quick, even for low-level characters.
 </ul>
+
 * I take this very seriously and will do my utmost to make people from all walks of life feel welcome. 
