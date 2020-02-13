@@ -2,4 +2,6 @@ theme: jekyll-theme-hacker
 title: Insert Title Here
 description: Blah blah
 show_downloads: false
-markdown: kramdown
+markdown_ext: "markdown,mkdown,mkdn,mkd,md"
+include:
+  - _pages
