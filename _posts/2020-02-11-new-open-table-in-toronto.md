@@ -9,7 +9,7 @@ I will be running a game of Dungeon Crawl Classics (DCC) in downtown Toronto.
 
 <u>Where:</u> 401 Games in downtown Toronto at 750 Yonge St (they’ve moved). Just a 2 minute walk from Bloor-Yonge TTC station.
 
-<u/>What to bring:</u> Dice if you want. A snack perhaps. The store has snacks and drinks for sale. I will provide character sheets, dice, pencils, the rule book, everything we need to play.
+<u>What to bring:</u> Dice if you want. A snack perhaps. The store has snacks and drinks for sale. I will provide character sheets, dice, pencils, the rule book, everything we need to play.
 
 <u>Details:</u>
 
