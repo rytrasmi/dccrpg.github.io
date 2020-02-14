@@ -391,7 +391,6 @@ Box
 Sack
 Held
 Firm
-Reed
 Strike
 Roast
 Snow
@@ -399,3 +398,5 @@ Brother/Sister
 Warm
 Cold
 Hot
+Crag
+Ness
