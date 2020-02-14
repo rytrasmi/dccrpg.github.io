@@ -1,13 +1,13 @@
 ---
 tags: toronto
 ---
-I will be running a game of Dungeon Crawl Classics (DCC) in downtown Toronto.
+I will be running a game of <a href="https://goodman-games.com/store/dungeon-crawl-classics/">Dungeon Crawl Classics (DCC)</a> in downtown Toronto.
 
 <a href="{{ site.baseurl }}/expectations.html">All are welcome.</a>
 
 <u>When:</u> Alternate Tuesdays from 7:00 - 10:00 PM, starting March 10, 2020. I am committing to 10 sessions initially and we can keep on trucking from there.
 
-<u>Where:</u> 401 Games in downtown Toronto at 750 Yonge St (they’ve moved). Just a 2 minute walk from Bloor-Yonge TTC station.
+<u>Where:</u> <a href="https://store.401games.ca/pages/toronto-vaughan-locations-hours">401 Games</a> in downtown Toronto at 750 Yonge St (they’ve moved). Just a 2 minute walk from Bloor-Yonge TTC station.
 
 <u>What to bring:</u> Dice if you want. A snack perhaps. The store has snacks and drinks for sale. I will provide character sheets, dice, pencils, the rule book, everything we need to play.
 
