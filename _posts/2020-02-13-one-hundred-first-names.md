@@ -3,7 +3,7 @@ tags: tables
 ---
 A name is a very personal thing.
 
-d100
+Roll <code>d100</code> for some inspiration for your level-0 villagers.
 
 <ol>
 <li>Romilda</li>
