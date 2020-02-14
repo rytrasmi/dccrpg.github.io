@@ -1,3 +1,4 @@
 ---
+dungeon quest
 ---
-<img src="{{ site.baseurl }}"/assets/img/swinging-blade.png">
+<img src="{{ site.baseurl }}/assets/img/swinging-blade.png">
