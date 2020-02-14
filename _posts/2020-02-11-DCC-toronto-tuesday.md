@@ -4,7 +4,7 @@ tags: toronto
 ---
 We are running a game of <a href="https://goodman-games.com/store/dungeon-crawl-classics/">Dungeon Crawl Classics (DCC)</a> in downtown Toronto.
 
-<a href="{{ site.baseurl }}/expectations.html">All are welcome.</a>
+All are welcome.
 
 <u>When:</u> Alternate Tuesdays from 7:00 - 10:00 PM, starting March 10, 2020. We are committing to 10 sessions initially and we can keep on trucking from there.
 
