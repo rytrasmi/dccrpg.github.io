@@ -1,11 +1,12 @@
 ---
+title: DCC Toronto Tuesday
 tags: toronto
 ---
-I will be running a game of <a href="https://goodman-games.com/store/dungeon-crawl-classics/">Dungeon Crawl Classics (DCC)</a> in downtown Toronto.
+We are running a game of <a href="https://goodman-games.com/store/dungeon-crawl-classics/">Dungeon Crawl Classics (DCC)</a> in downtown Toronto.
 
 <a href="{{ site.baseurl }}/expectations.html">All are welcome.</a>
 
-<u>When:</u> Alternate Tuesdays from 7:00 - 10:00 PM, starting March 10, 2020. I am committing to 10 sessions initially and we can keep on trucking from there.
+<u>When:</u> Alternate Tuesdays from 7:00 - 10:00 PM, starting March 10, 2020. We are committing to 10 sessions initially and we can keep on trucking from there.
 
 <u>Where:</u> <a href="https://store.401games.ca/pages/toronto-vaughan-locations-hours">401 Games</a> in downtown Toronto at 750 Yonge St (they’ve moved). Just a 2 minute walk from Bloor-Yonge TTC station.
 
@@ -19,7 +20,7 @@ More info below the flyer.
 
 The #1 objective is to have fun!
 
-Players will start at level 0. We will then progress through several published modules tied together by a sandbox campaign setting. Progress will be swift, and I will aim to have each module completed in one or two sessions, give or take. You will likely level up every 2 or 3 sessions.
+Players will start at level 0. We will then progress through several published modules tied together by a sandbox campaign setting. Progress will be swift, and we will aim to have each module completed in one or two sessions, give or take. You will likely level up every 2 or 3 sessions.
 
 No commitment required. You may attend or skip sessions as your schedule demands. You will be welcomed back at any time with the same character(s) that you left off with. Nobody controls your character(s) but you.
 
