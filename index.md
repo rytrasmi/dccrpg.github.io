@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-This is a test.
+Interesting things are listed below.
 <ul>
   {% for post in site.posts %}
     <li>
