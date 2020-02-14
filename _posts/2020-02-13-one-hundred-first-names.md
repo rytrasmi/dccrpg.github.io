@@ -1,5 +1,5 @@
 ---
-tags: ideas
+tags: tables
 ---
 A name is a very personal thing.
 
