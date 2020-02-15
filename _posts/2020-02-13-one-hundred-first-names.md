@@ -105,6 +105,6 @@ Roll <code class="language-plaintext highlighter-rouge">d100</code> for some ins
 <li>Vita</li>
 <li>Jocosa</li>
 <li>Artus</li>
-<li>Izot</li>
+<li>Izzy</li>
 
 </ol>
