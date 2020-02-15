@@ -7,4 +7,4 @@ This generator might come in handy. The first names are mostly inspired by actua
 
 Click to download as PDF.
 
-<a href="{{ site.baseurl }}/assets/pdf/10-million-peasant-names.pdf"><img src="{{ site.baseurl }}/assets/pdf/10-million-peasant-names.png"></a>
+<a href="{{ site.baseurl }}/assets/pdf/10-million-peasant-names.pdf"><img src="{{ site.baseurl }}/assets/img/10-million-peasant-names.png"></a>
