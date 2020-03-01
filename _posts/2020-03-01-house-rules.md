@@ -1,7 +1,7 @@
 ---
 tags: rules
 ---
-We will be using a few slight modifications to the DCC RPG core rules. These are mostly to limit crunchy aspects of the game and hopefully makes things more smooth and fun.
+During DCC Toronto Tuesday, we will be using a few slight modifications to the DCC RPG core rules. These are mostly to limit crunchy aspects of the game and hopefully makes things more smooth and fun.
 <h1>Zero-Level Player Parties</h1>
 <p>All of a player's peasants will be assumed to be at the same location. So, marching order will be player-based.</p>
 <p>Of course, if you want one of your peasants to go off and do something, you can. But unless you say otherwise, they will stick together.</p>
