@@ -29,7 +29,7 @@ During DCC Toronto Tuesday, we will be using a few slight modifications to the D
 <li>Missing the save by 5 or less, the wizard suffers minor corruption.</li>
 <li>Missing the save by more than 5, the wizard suffers major corruption.</li>
 <li>Critical failure (natural 1), the wizard suffers greater corruption.</li>
-</li>
+</ul>
 <p>Luck cannot be burned to avoid this corruption.</p>
 
 
