@@ -3,20 +3,19 @@ tags: rules
 ---
 We will be using a few slight modifications to the DCC RPG core rules. These are mostly to limit crunchy aspects of the game and hopefully makes things more smooth and fun.
 <h1>Zero-Level Player Parties</h1>
-All of a player's peasants will be assumed to be at the same location. So, marching order will be player-based.
-Of course, if you want one of your peasants to go off an do something, you can. But unless you say otherwise, they will stick together.
-Initiative will also be player-based. You will roll once for all your peasants, applying the best modifier of the group.
-In combat, a player's peasants will be assumed to be engaged with the same enemy or group of enemies. I will divide large groups of enemies into small groups of two to four individuals.
-Monsters will attack a player's group of peasants and the player can decide who in the group takes a hit.
-If you don't declare which peasant is doing something and it's important to know, I will ask you. So, if you say "I do such and such," I will only ask which peasant you are talking about if its important.
-For example, if your group trips a trap, I will ask which peasant tripped it.
+<p>All of a player's peasants will be assumed to be at the same location. So, marching order will be player-based.</p>
+<p>Of course, if you want one of your peasants to go off and do something, you can. But unless you say otherwise, they will stick together.</p>
+<p>Initiative will also be player-based. You will roll once for all your peasants, applying the best modifier of the group.</p>
+<p>In combat, a player's peasants will be assumed to be engaged with the same enemy or group of enemies. I will divide large groups of enemies into small groups of two to four individuals.</p>
+<p>Monsters will attack a player's group of peasants and the player can decide who in the group takes a hit.</p>
+<p>If you don't declare which peasant is doing something and it's important to know, I will ask you. So, if you say "I do such and such," I will only ask which peasant you are talking about if its important.</p>
+<p>For example, if your group trips a trap, I will ask which peasant tripped it.</p>
 <h1>Luck</h1>
 <h2>Generally</h2>
-Luck will only regenerate for halflings (level 1+) and thieves, as per the DCC RPG core rules.
-Luck will be awarded for critical successes (natural 20), feats of derring-do, epic role play, completing quests, and so on.
-Awarded luck may be permanent or fleeting.
+<p>Luck will be awarded for critical successes (natural 20), feats of derring-do, epic role play, completing quests, and so on.</p>
+<p>Awarded luck may be permanent or fleeting.</p>
 <h2>Fleeting Luck</h2>
-Fleeting luck will be more or less like in Lankhmar but it will be player-based rather than character-based to keep things simple.
+<p>Fleeting luck will be more or less like in Lankhmar but it will be player-based rather than character-based to keep things simple.</p>
 <ul>
 <li>Each player beings the game with 1 point of fleeting luck</li>
 <li>There is no limit to the amount of fleeting luck you can have</li>
@@ -25,10 +24,10 @@ Fleeting luck will be more or less like in Lankhmar but it will be player-based 
 <li>Any time a character makes a critical failure occurs (natural 1), ALL players lose their fleeting luck</li>
 </ul>
 <h1>Save vs. Spellburn</h1>
-When using spellburn, a wizard must make a save vs. the amount of spellburn or suffer corruption.
-Missing the save by 5 or less, the wizard suffers minor corruption.
-Missing the save by more than 5, the wizard suffers major corruption.
-Critical failure (natural 1), the wizard suffers greater corruption.
-Luck cannot be burned to avoid this corruption.
+<p>When using spellburn, a wizard must make a save vs. the amount of spellburn or suffer corruption.</p>
+<p>Missing the save by 5 or less, the wizard suffers minor corruption.</p>
+<p>Missing the save by more than 5, the wizard suffers major corruption.</p>
+<p>Critical failure (natural 1), the wizard suffers greater corruption.</p>
+<p>Luck cannot be burned to avoid this corruption.</p>
 
 
