@@ -24,10 +24,13 @@ During DCC Toronto Tuesday, we will be using a few slight modifications to the D
 <li>Any time a character makes a critical failure occurs (natural 1), ALL players lose their fleeting luck</li>
 </ul>
 <h1>Save vs. Spellburn</h1>
-<p>When using spellburn, a wizard must make a save vs. the amount of spellburn or suffer corruption.</p>
-<p>Missing the save by 5 or less, the wizard suffers minor corruption.</p>
-<p>Missing the save by more than 5, the wizard suffers major corruption.</p>
-<p>Critical failure (natural 1), the wizard suffers greater corruption.</p>
+<p>When using spellburn, a wizard must make a willpower save vs. the amount of spellburn or suffer corruption. For example, if the wizard burns 7 attribute points, then she must make a will save of 7 to avoid corruption.</p>
+<ul>
+<li>Missing the save by 5 or less, the wizard suffers minor corruption.</li>
+<li>Missing the save by more than 5, the wizard suffers major corruption.</li>
+<li>Critical failure (natural 1), the wizard suffers greater corruption.</li>
+</li>
 <p>Luck cannot be burned to avoid this corruption.</p>
+
 
 
