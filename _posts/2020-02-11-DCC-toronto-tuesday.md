@@ -12,7 +12,7 @@ All are welcome.
 
 <u>What to bring:</u> Dice if you want. A snack perhaps. The store has snacks and drinks for sale. I will provide character sheets, dice, pencils, the rule book, everything we need to play.
 
-Have a look at our <a ref="{{ site.baseurl }}/_posts/2020/01/03/house-rules.html">house rules</a>. We are open to others.
+Have a look at our <a href="{{ site.baseurl }}/_posts/2020/01/03/house-rules.html">house rules</a>. We are open to others.
 
 More info below the flyer.
 
