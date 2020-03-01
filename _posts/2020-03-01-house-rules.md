@@ -1,7 +1,7 @@
 ---
 tags: rules
 ---
-During <a href="{{ site.baseurl }}/2020/02/11/DCC-toronto-tuesday.html">house rules</a>DCC Toronto Tuesday</a>, we will be using a few slight modifications to the DCC RPG core rules. These are mostly to limit crunchy aspects of the game and hopefully makes things more smooth and fun.
+During <a href="{{ site.baseurl }}/2020/02/11/DCC-toronto-tuesday.html">DCC Toronto Tuesday</a>, we will be using a few slight modifications to the DCC RPG core rules. These are mostly to limit crunchy aspects of the game and hopefully makes things more smooth and fun.
 <h1>Zero-Level Player Parties</h1>
 <p>All of a player's peasants will be assumed to be at the same location. So, marching order will be player-based.</p>
 <p>Of course, if you want one of your peasants to go off and do something, you can. But unless you say otherwise, they will stick together.</p>
