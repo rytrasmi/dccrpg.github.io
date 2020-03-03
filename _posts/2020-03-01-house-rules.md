@@ -14,6 +14,7 @@ During <a href="{{ site.baseurl }}/2020/02/11/DCC-toronto-tuesday.html">DCC Toro
 <h2>Generally</h2>
 <p>Luck will be awarded for critical successes (natural 20), feats of derring-do, <u>cool role play</u>, completing quests, and so on.</p>
 <p>Awarded luck may be permanent or fleeting.</p>
+<p>Luck will regenerate for thieves and halflings per the core rules.</p>
 <h2>Fleeting Luck</h2>
 <p>Fleeting luck will be more or less like in Lankhmar but it will be player-based rather than character-based to keep things simple.</p>
 <ul>
