@@ -9,7 +9,7 @@ During <a href="{{ site.baseurl }}/2020/02/11/DCC-toronto-tuesday.html">DCC Toro
 <p>In combat, a player's peasants will be assumed to be engaged with the same enemy or group of enemies. I will divide large groups of enemies into small groups of 2-4 individuals.</p>
 <p>Monsters will attack a player's group of peasants and the player can decide who in the group takes a hit.</p>
 <p>If you don't declare which peasant is doing something and it's important to know, I will ask you. So, if you say "I do such and such," I will only ask which peasant you are talking about if its important.</p>
-<p>For example, if your group trips a trap, I will ask which peasant tripped it.</p>
+<p>For example, if your group trips a trap, I will ask which peasant was the one messing about.</p>
 <h1>Luck</h1>
 <h2>Generally</h2>
 <p>Luck will be awarded for critical successes (natural 20), feats of derring-do, cool role play, completing quests, and so on.</p>
