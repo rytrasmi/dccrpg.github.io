@@ -23,14 +23,7 @@ During <a href="{{ site.baseurl }}/2020/02/11/DCC-toronto-tuesday.html">DCC Toro
 <li>You can spend fleeting luck to aid any roll by any character, yours or another player's</li>
 <li>Any time a character makes a critical failure occurs (natural 1), ALL players lose their fleeting luck</li>
 </ul>
-<h1>Save vs. Spellburn</h1>
-<p>When using spellburn, a wizard must make a willpower save vs. the amount of spellburn or suffer corruption. For example, if a wizard burns 7 attribute points, then she must make a will save of 7 to avoid corruption. Save vs. spellburn is like any other save; the character's willpower bonus applies and luck can be burned.</p>
-<ul>
-<li>Missing the save by 5 or less, the wizard suffers minor corruption.</li>
-<li>Missing the save by more than 5, the wizard suffers major corruption.</li>
-<li>Critical failure (natural 1), the wizard suffers greater corruption.</li>
-</ul>
-<p>Luck cannot be burned to avoid this corruption.</p>
+
 
 
 
