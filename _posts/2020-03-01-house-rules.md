@@ -12,7 +12,7 @@ During <a href="{{ site.baseurl }}/2020/02/11/DCC-toronto-tuesday.html">DCC Toro
 <p>For example, if your group trips a trap, I will ask which peasant was the one messing about.</p>
 <h1>Luck</h1>
 <h2>Generally</h2>
-<p>Luck will be awarded for critical successes (natural 20), feats of derring-do, cool role play, completing quests, and so on.</p>
+<p>Luck will be awarded for critical successes (natural 20), feats of derring-do, <u>cool role play</u>, completing quests, and so on.</p>
 <p>Awarded luck may be permanent or fleeting.</p>
 <h2>Fleeting Luck</h2>
 <p>Fleeting luck will be more or less like in Lankhmar but it will be player-based rather than character-based to keep things simple.</p>
