@@ -11,7 +11,7 @@ During <a href="{{ site.baseurl }}/2020/02/11/DCC-toronto-tuesday.html">DCC Toro
 <p>If you don't declare which peasant is doing something and it's important to know, I will ask you. So, if you say "I do such and such," I will only ask which peasant you are talking about if its important. For example, if your group trips a trap, I will ask which peasant was the one messing about.</p>
 <h1>Luck</h1>
 <h2>Generally</h2>
-<p>Luck will be awarded for critical successes (<code class="language-plaintext highlighter-rouge">natural 20<code> when it matters), feats of derring-do, <u>cool role play</u>, completing quests, and so on.</p>
+<p>Luck will be awarded for critical successes (<code class="language-plaintext highlighter-rouge">natural 20</code> when it matters), feats of derring-do, <u>cool role play</u>, completing quests, and so on.</p>
 <p>Awarded luck may be permanent or fleeting.</p>
 <p>Luck will regenerate for thieves and halflings per the core rules.</p>
 <h2>Fleeting Luck</h2>
