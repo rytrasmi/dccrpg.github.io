@@ -22,7 +22,7 @@ During <a href="{{ site.baseurl }}/2020/02/11/DCC-toronto-tuesday.html">DCC Toro
 <li>There is no limit to the amount of fleeting luck you can have</li>
 <li>A player's fleeting luck gets added to their characters' luck score when making luck checks</li>
 <li>You can spend fleeting luck to aid any roll by any character, yours or another player's</li>
-<li>Any time a character makes a critical failure occurs (natural 1), ALL players lose their fleeting luck</li>
+<li>Any time a character makes a critical failure occurs (natural 1), <u>ALL</u> players lose their fleeting luck</li>
 </ul>
 
 
