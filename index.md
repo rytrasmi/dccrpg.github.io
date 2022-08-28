@@ -27,12 +27,12 @@ It is dark and stormy here. A witch-queen rules over it.
 
 # Chronology
 {% for category in site.categories %}
-  <h2>{{ category[0] }}</h2>
+  ##{{ category[0] | capitalize }}
   <ul>
     {% for post in category[1] %}
       <li>
-        <a href="{{ post.url | prepend:site.baseurl}}">{{ post.title }}</a>
-        {{ post.excerpt }}
+        ###<a href="{{ post.url | prepend:site.baseurl}}">{{ post.title }}</a>
+        {{ post.inwhich }}
       </li>
     {% endfor %}
   </ul>
