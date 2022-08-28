@@ -30,7 +30,7 @@ It is dark and stormy here. A witch-queen rules over it.
 <ul>
   {% for post in site.posts %}
   {% for tag in post.tags %}
-  {% if tag == 'dungeon quest' %}
+  {% if tag == "dungeon quest" %}
     <li>
       <a href="{{ post.url | prepend:site.baseurl }}">{{ post.title }}</a>
     </li>
