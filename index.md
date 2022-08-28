@@ -4,30 +4,33 @@ layout: default
 
 Please see the [aboutttt](about.md) for further details.
 
-# Characters
+# Adventurers
 ## Biff
-Biff is a Common fighter who has yet to slay a foe.
+Biff is a Common magician.
 
 ## Jill
-Jill is a Pict magician who likes casting spells.
+Jill is a Pict fighter who seeks out danger.
+> I say we slay the lot of them!
 
-> Fenced code blocks are like Standard Markdown’s regular code blocks, except that they’re not indented and instead rely on start and end fence lines to delimit the code block.
-
-
-# Locations
+# Places
 ## Khromarium
-This is a city
+This is the big city.
 
 ## Some place
-It is dark and stormy here.
+It is dark and stormy here. A witch-queen rules over it.
 
 # Chronology
+## The Campaign for Revenge
 <ul>
   {% for post in site.posts %}
+  {% for tag in post.tags %}
+  {% if tag == 'dungeon quest' %}
     <li>
       <a href="{{ post.url | prepend:site.baseurl }}">{{ post.title }}</a>
     </li>
+  {% endif %}
   {% endfor %}
+  {% endfor %}  
 </ul>
 
 # Resources
