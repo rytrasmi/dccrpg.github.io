@@ -26,16 +26,14 @@ It is dark and stormy here. A witch-queen rules over it.
 ---
 
 # Chronology
-## The Campaign for Revenge
-<ul>
-  {% for post in site.posts %}
-    {% if post.tags contains "Dungeon Quest" %}
-      <li>
-        <a href="{{ post.url | prepend:site.baseurl }}">{{ post.title }}</a>
-      </li>
-    {% endif %}
-  {% endfor %}  
-</ul>
+{% for category in site.categories %}
+  <h3>{{ category[0] }}</h3>
+  <ul>
+    {% for post in category[1] %}
+      <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+    {% endfor %}
+  </ul>
+{% endfor %}
 
 ---
 
