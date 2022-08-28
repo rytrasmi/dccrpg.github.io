@@ -7,6 +7,12 @@ Please see the [aboutttt](about.md) for further details.
 Characters
 Biff 
 
+# Heading 1
+## Heading 2
+### Heading 3
+###### Heading 6
+
+> Bleck quote
 
 ```
 Fenced code blocks are like Standard
