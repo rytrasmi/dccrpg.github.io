@@ -29,8 +29,6 @@ It is dark and stormy here. A witch-queen rules over it.
 {% for category in site.categories %}
 ## {{ category[0] | capitalize }}
 {% for post in category[1] %}
-- ### <a href="{{ post.url | prepend:site.baseurl}}">{{ post.title }}</a>
-- <a href="{{ post.url | prepend:site.baseurl}}">{{ post.title }}</a>
 ### <a href="{{ post.url | prepend:site.baseurl}}">{{ post.title }}</a>
 {{ post.inwhich }}
 {% endfor %}
