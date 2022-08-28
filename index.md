@@ -31,4 +31,4 @@ It is dark and stormy here.
 </ul>
 
 # Resources
-Rough Map of Hyperborea ({{ site.baseurl }}/assets/pdf/mainland_hyperborea_large.pdf)
+[Rough Map of Hyperborea]({{ site.baseurl }}/assets/pdf/mainland_hyperborea_large.pdf)
