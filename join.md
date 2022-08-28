@@ -1,7 +1,7 @@
 ---
 Title: Join the Adventure!
 ---
-Our Hyperborea 3E campaign runs regularly every two weeks at [The Guild House](https://theguildhouse.ca) in Toronto (St. Clair at Bathurst). We play Thursday evenings from about 6:00 - 10:00. 
+Our [Hyperborea 3E](https://www.hyperborea.tv/) campaign runs regularly every two weeks at [The Guild House](https://theguildhouse.ca) in Toronto (St. Clair at Bathurst). We play Thursday evenings from about 6:00 - 10:00. 
 
 The next session is Sept. 22, 2022.
 
