@@ -4,10 +4,17 @@ layout: default
 
 Please see the [aboutttt](about.md) for further details.
 
-First Header | Second Header | Third Header
------------- | ------------- | ------------
-Content Cell | Content Cell  | Content Cell
-Content Cell | Content Cell  | Content Cell
+Characters
+Biff 
+
+
+```
+Fenced code blocks are like Standard
+Markdown’s regular code blocks, except that
+they’re not indented and instead rely on
+start and end fence lines to delimit the
+code block.
+```
 
 
 Interesting things are listed below.
