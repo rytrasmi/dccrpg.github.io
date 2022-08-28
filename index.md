@@ -29,7 +29,7 @@ It is dark and stormy here. A witch-queen rules over it.
 ## The Campaign for Revenge
 <ul>
   {% for post in site.posts %}
-    {% if post.tags contains "dungeon quest" %}
+    {% if post.tags contains "Dungeon Quest" %}
       <li>
         <a href="{{ post.url | prepend:site.baseurl }}">{{ post.title }}</a>
       </li>
