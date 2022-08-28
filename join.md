@@ -8,5 +8,5 @@ The next session is Sept. 22, 2022.
 We are open to new players. No experience needed. Message me if you would like to attend or just show up and we should be able to fit you in.
 
 NB:
-- The game is relatively mature. Take the film [Conan the Barbarian (1982)](https://en.wikipedia.org/wiki/Conan_the_Barbarian_(1982_film) as an example.
+- The game is relatively mature. Take the film [Conan the Barbarian (1982)](https://en.wikipedia.org/wiki/Conan_the_Barbarian_(1982_film)) as an example.
 - The Guild House has a per person table fee of $7.50.
