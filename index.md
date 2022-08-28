@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Please see the [aboutttt](about.md) for further details.
+This is the campaign log for an ongoing game of Hyperborea 3E run in Toronto. The campaign is open and you may [join the adventure](join.md)!
 
 ---
 
