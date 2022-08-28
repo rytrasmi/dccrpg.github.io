@@ -4,15 +4,22 @@ layout: default
 
 Please see the [aboutttt](about.md) for further details.
 
-Characters
-Biff 
+# Characters
+## Biff
+Biff is a Common fighter who has yet to slay a foe.
 
-# Heading 1
-## Heading 2
-### Heading 3
-###### Heading 6
+## Jill
+Jill is a Pict magician who likes casting spells.
 
-> Bleck quote
+> Fenced code blocks are like Standard Markdown’s regular code blocks, except that they’re not indented and instead rely on start and end fence lines to delimit the code block.
+
+
+# Locations
+## Khromarium
+This is a city
+
+## Some place
+It is dark and stormy here.
 
 ```
 Fenced code blocks are like Standard
@@ -23,7 +30,7 @@ code block.
 ```
 
 
-Interesting things are listed below.
+Chronology
 <ul>
   {% for post in site.posts %}
     <li>
