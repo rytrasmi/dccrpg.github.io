@@ -31,7 +31,7 @@ It is dark and stormy here. A witch-queen rules over it.
   <ul>
     {% for post in category[1] %}
       <li>
-        <a href="{{ post.url }}">{{ post.title }}</a>
+        <a href="{{ post.url | prepend:site.baseurl}}">{{ post.title }}</a>
         {{ post.excerpt }}
       </li>
     {% endfor %}
