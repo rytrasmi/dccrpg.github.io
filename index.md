@@ -38,3 +38,4 @@ It is dark and stormy here. A witch-queen rules over it.
 
 # Resources
 [Rough Map of Hyperborea](/assets/pdf/mainland_hyperborea_large.pdf)
+[Detailed Map of Hyperborea](map.md)
