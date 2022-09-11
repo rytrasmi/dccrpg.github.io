@@ -43,11 +43,8 @@ Did you come up with a prompt? Did you write it down? Do you refer back to it? G
 
 My character is a/n [ADJECTIVE] [NOUN] with [NOUN/CONCEPT] who wants [NOUN/CONCEPT]
 
-
-Why did you join the party.
-What secret have you shared with the party?
-...?
-
+One-line Backstory and Motivation
+Groo is a stupid barbarian who wants gold.
 
 Session 0
 Death may happen, we will get you a new character asap
