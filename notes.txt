@@ -47,6 +47,11 @@ One-line Backstory and Goal / Motivation
 Groo is a stupid barbarian who wants gold.
 #Motive to be what you're driven by, and a #Goal to be what you're driven to
 
-Session 0
-Death may happen, we will get you a new character asap
-How XP is awarded
+Agenda (Distilled from the above)
+Prologue - Captured with a mechant caravan by strange men; chained together and locked in a wagon.
+Create characters
+One-sentence background with a strong motivator (ties into Secondary Skills p. 132)
+Reason for party to be together - Why were you with the merchant caravan? Mercenaries? Fellow travelers?
+Death may happen, we will get you a new character ASAP
+Rules are RAW except for how XP is awarded: By the book with 10% bonus for: Did you risk or sacrifice something for the party or a member of the party?
+FYIs about the system: hirelings/henchmen are common
